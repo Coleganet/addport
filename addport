@@ -3,17 +3,16 @@ source /etc/multipool.conf
 source $STORAGE_ROOT/yiimp/.yiimp.conf
 #####################################################
 # Dedicated Port config generator
-# Created by cryptopool.builders for multipool
+# Created Originally  by cryptopool.builders for multipool
 # This generator will modify the main algo.conf file
 # Create the new coin.algo.conf file
 # And update the stratum start file
-# Edited to use custom port by chronzz
 #####################################################
 
 clear
 
 
-cd /home/crypto-data/yiimp/site/stratum/config
+cd /var/web/stratum/config
 echo "This program will create a new coin.algo.conf file and also create a new stratum start file."
 echo "This program will also open the port in UFW."
 echo ""
