@@ -3,7 +3,7 @@
 <li>Dedicated Port config generator for COLEGANET INSTALLER</li>
 <li>Originally Created by cryptopool.builders for multipool installer</li>
 <li>This generator will modify the main algo.conf file in stratum/config/</li>
-<li>Edited to use custom port for Coleganet pool Installee</li>
+<li>Edited to use custom port for Coleganet pool Installer</li>
 <br>
 
 <div><h2>Install</h2></div>
